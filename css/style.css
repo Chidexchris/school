@@ -1,0 +1,15 @@
+.navbar-brand{
+    width: 50px;
+}
+.banner{
+    background-color: blue;
+    height: 40vh;
+}
+.banner-text{
+    padding-left:40rem;
+    padding-top: 5rem;
+}
+.ban-title, .ban, .ban-text{
+    color: white;
+    text-decoration: none;
+}
